@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\buffer",
+    "\\src\\include\\buffer",
+    "\\src\\include\\storage",
+    "\\src\\include\\storage\\page",
+    "\\src\\storage",
+    "\\src\\storage\\page"
+  ],
+  "SelectedNode": "\\src\\buffer\\lru_k_replacer.cpp",
+  "PreviewInSolutionExplorer": false
+}

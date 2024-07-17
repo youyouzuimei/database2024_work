@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\include",
+    "\\src\\include\\buffer",
+    "\\src\\include\\concurrency",
+    "\\tools",
+    "\\tools\\terrier_bench"
+  ],
+  "SelectedNode": "\\src\\include\\concurrency\\lock_manager.h",
+  "PreviewInSolutionExplorer": false
+}
